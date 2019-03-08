@@ -6,6 +6,7 @@
     <Authors>musictopia</Authors>
     <Description>Reading/Writing ID3 versions 1 and 2 basic tags</Description>
     <PackageTags>id3tags mp3</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
