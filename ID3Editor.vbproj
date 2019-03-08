@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>ID3Editor</RootNamespace>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>musictopia</Authors>
+    <Description>Reading/Writing ID3 versions 1 and 2 basic tags</Description>
+    <PackageTags>id3tags mp3</PackageTags>
+  </PropertyGroup>
+
+</Project>
